@@ -1,4 +1,4 @@
-const fillerMsgs = ['Go forth and conquer', 'Without a doubt you should play', 'Go break your mouse', 'I suggest you play'];
+const fillerMsgs = ['Go forth and conquer', 'Without a doubt you should play', 'Go break your mouse playing', 'I suggest you play'];
 
 //Prompting the user to give an answer
 const prompt = require('prompt-sync')();
